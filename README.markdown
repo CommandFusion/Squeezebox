@@ -1,6 +1,7 @@
 # Squeezebox Control via CommandFusion 
 
 This project allows for control of Squeezebox units via Ethernet using CommandFusion software.
+http://wiki.slimdevices.com/index.php/SlimProto_TCP_protocol
 
 The project is split into 2 parts:
 
