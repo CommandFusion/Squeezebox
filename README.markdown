@@ -1,7 +1,11 @@
 # Squeezebox Control via CommandFusion 
 
 This project allows for control of Squeezebox units via Ethernet using CommandFusion software.
-http://wiki.slimdevices.com/index.php/SlimProto_TCP_protocol
+
+Controlling the client devices directly:  
+http://wiki.slimdevices.com/index.php/SlimProto_TCP_protocol  
+Controlling the server (and indirectly, any connected client):  
+http://crestron-squeeze.googlecode.com/files/cli-api.htm
 
 The project is split into 2 parts:
 
